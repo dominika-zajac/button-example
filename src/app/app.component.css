@@ -1,0 +1,19 @@
+.title {
+    font-size: 80px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 60px;
+}
+
+button {
+    width: 300px;
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: white;
+    margin: 15px;
+    padding: 10px;
+}
+
+button:focus {
+    outline: none;
+}
